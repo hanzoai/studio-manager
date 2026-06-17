@@ -1,4 +1,4 @@
-# studio-manager — AI Assistant Context
+# studio-manager
 
 # Studio Manager
 
