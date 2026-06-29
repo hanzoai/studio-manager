@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="studio-manager" width="880"></p>
+
 # Studio Manager
 
 CLI tool for managing Hanzo Studio installations, updates, and custom nodes.
